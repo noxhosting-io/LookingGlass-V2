@@ -8,7 +8,7 @@ Modern Looking Glass for PHP 7–8.1 with auto-detected server details, dynamic 
 
 ## Authors
 
-- [@maven_htx](https://instagram.com/noxhostingio)
+- [@noxhostingio](https://instagram.com/noxhostingio)
 
 
 ## Installation
@@ -96,4 +96,4 @@ And to [@Hybula](https://github.com/hybula/lookingglass) for Bootstrap Styled
 ### License
 Mozilla Public License Version 2.0
 ## 🔗 Links
-KALIXHOSTING https://kalixhosting.com/
+NOXHosting https://noxhosting.io/
