@@ -28,7 +28,7 @@ then run ./configure.sh
 ```
 Follow Prompts to install required packages and Test Files    
  
-Note: do not commit real database credentials. `db_config.php` is now a placeholder and will be written by `install.php` during setup on the target server.
+
 ## Demo
 
 [Looking Glass](https://lg.noxhosting.io) 
