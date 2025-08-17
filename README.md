@@ -1,5 +1,5 @@
 
-![Logo](https://kalixhosting.com/img/kalixhostinglogo.png)
+![Logo](https://avatars.githubusercontent.com/u/93708739?v=4)
 
 
 # LOOKING GLASS
@@ -8,13 +8,13 @@ Modern Looking Glass for PHP 7–8.1 with auto-detected server details, dynamic 
 
 ## Authors
 
-- [@maven_htx](https://instagram.com/maven_htx)
+- [@maven_htx](https://instagram.com/noxhostingio)
 
 
 ## Installation
 Download Project as Zip Unzip and UPLOAD TO HOST
 
-[DOWNLOAD ZIP FROM GITHUB](https://github.com/KALIXHOSTING/LookingGlass/archive/refs/heads/main.zip) 
+[DOWNLOAD ZIP FROM GITHUB]() 
 
 Install Script Run command below
 
