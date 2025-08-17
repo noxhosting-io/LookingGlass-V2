@@ -36,6 +36,13 @@ Note: do not commit real database credentials. `db_config.php` is now a placehol
 
 ![Looking Glass](https://github.com/noxhosting-io/LookingGlass-V2/blob/main/LookingGlass-FrontEnd.png?raw=true)
 
+## Admin Panel
+![Looking Glass Admin Panel](https://github.com/noxhosting-io/LookingGlass-V2/blob/main/LookingGlass-AdminPanel.png?raw=true)
+
+## Installation 
+![Looking Glass Install](https://github.com/noxhosting-io/LookingGlass-V2/blob/main/LookingGlass-InstallStep1.png?raw=true)
+
+
 ## Features and Improvements
 
 - Theme handling
