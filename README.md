@@ -14,7 +14,6 @@ Modern Looking Glass for PHP 7–8.1 with auto-detected server details, dynamic 
 ## Installation
 Download Project as Zip Unzip and UPLOAD TO HOST
 
-[DOWNLOAD ZIP FROM GITHUB]() 
 
 Install Script Run command below
 
