@@ -32,9 +32,9 @@ Follow Prompts to install required packages and Test Files
 Note: do not commit real database credentials. `db_config.php` is now a placeholder and will be written by `install.php` during setup on the target server.
 ## Demo
 
-[Looking Glass](https://lg.denver.kalixhosting.com) 
+[Looking Glass](https://lg.noxhosting.io) 
 
-![Looking Glass](https://kalixhosting.com/img/lookingglass.png)
+![Looking Glass](https://github.com/noxhosting-io/LookingGlass-V2/blob/main/LookingGlass-FrontEnd.png?raw=true)
 
 ## Features and Improvements
 
